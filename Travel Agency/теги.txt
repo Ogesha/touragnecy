@@ -1,5 +1,0 @@
-                <li><a href="travel agency main.html">Главная</a></li>
-                <li><a href="travel agency catalog.html">Услуги</a></li>
-                <li><a href="travel agency reg.html">Регистрация</a></li>
-                <li><a href="travel agency login.html">Вход</a></li>
-                <li><a href="travel agency contact.html">Контакты</a></li>
